@@ -120,13 +120,13 @@ body {
 
     /* base colors */
     --red-1: oklch(75% 0.12 0);
-    --red-2: oklch(70% 0.12 0);
+    --red-2: oklch(0.872 0.059 344.4);
     --red-3: oklch(65% 0.12 0);
     --red-4: oklch(60% 0.12 0);
     --red-5: oklch(55% 0.12 0);
 
     --green-1: oklch(75% 0.11 170);
-    --green-2: oklch(70% 0.11 170);
+    --green-2: oklch(0.889 0.037 241.8);
     --green-3: oklch(65% 0.11 170);
     --green-4: oklch(60% 0.11 170);
     --green-5: oklch(55% 0.11 160);
@@ -138,7 +138,7 @@ body {
     --blue-5: oklch(55% 0.1 215);
 
     --yellow-1: oklch(80% 0.11 90);
-    --yellow-2: oklch(75% 0.11 90);
+    --yellow-2: oklch(0.871 0.050 303.5);
     --yellow-3: oklch(70% 0.11 90);
     --yellow-4: oklch(65% 0.11 90);
     --yellow-5: oklch(60% 0.11 90);
